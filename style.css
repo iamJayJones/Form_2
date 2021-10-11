@@ -51,12 +51,6 @@ textarea {
 
 /* RESET BROWSER STYLES */
 
-* {
-  margin: 0;
-  padding: 0px;
-  box-sizing: border-box;
-}
-
 li {
   display: inline-block;
 }
@@ -102,7 +96,7 @@ a {
   /* margin-left: 700px; */
   display: flex;
   border-radius: 50%;
-  box-shadow: blacks;
+  box-shadow: black;
 }
 
 .paragraph {
