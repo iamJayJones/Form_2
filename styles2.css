@@ -112,3 +112,7 @@ li {
   height: 500px;
   padding: 10px;
 }
+
+.active {
+  color: red;
+}

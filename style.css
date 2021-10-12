@@ -41,8 +41,16 @@ body {
   opacity: 0.8;
 }
 
+.boxes:hover {
+  background-color: lightgray;
+}
+
 textarea {
   opacity: 0.8;
+}
+
+textarea:hover {
+  background-color: lightgray;
 }
 
 .button {
@@ -157,4 +165,8 @@ table {
   width: 30%;
   color: whitesmoke;
   font-size: 1.9em;
+}
+
+.active {
+  color: red;
 }

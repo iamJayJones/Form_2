@@ -184,3 +184,7 @@ a {
     margin-bottom: 0%;
   }
 }
+
+.active {
+  color: red;
+}
